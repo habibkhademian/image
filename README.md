@@ -2,7 +2,7 @@
 بزوددی عکس قرارمیدهم
 
 
-explore
+github.com/explore
 
 issues
 
