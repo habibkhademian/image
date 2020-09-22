@@ -2,8 +2,14 @@
 بزوددی عکس قرارمیدهم
 
 
+https://git.com
+
+
+https://github.com
+
+
 http://github.com/explore
 
-http://github.com/issues
 
-http://github.com/polls
+http://github.com/pulls
+
