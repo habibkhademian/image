@@ -2,8 +2,8 @@
 بزوددی عکس قرارمیدهم
 
 
-github.com/explore
+http://github.com/explore
 
-issues
+http://github.com/issues
 
-polls
+http://github.com/polls
