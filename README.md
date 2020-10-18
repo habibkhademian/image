@@ -21,3 +21,7 @@ https://wikipedia.com
 https://about.google/products/
 پایان
 
+
+
+github: sindresorhus
+tidelift: npm/imagemin
