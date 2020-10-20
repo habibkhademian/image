@@ -3,8 +3,8 @@
 
 
 
-# imagemin [![Build Status](https://git-scm.com)]
 
+# imagemin [![Build Status](https://git-scm.com/imagemin/imagemin.svg?branch=master)]
 
 https://git-scm.com
 
