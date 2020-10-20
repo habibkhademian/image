@@ -7,6 +7,11 @@
 # git [![Build Status](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://git-scm.com)
 
 
+
+# wikipedia [![Build Status](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://wikipedia.com)
+
+
+
 https://git-scm.com
 
 
