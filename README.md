@@ -2,6 +2,10 @@
 بزوددی عکس قرارمیدهم
 
 
+
+# imagemin [![Build Status](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://travis-ci.com/github/imagemin/imagemin)
+
+
 https://git-scm.com
 
 
