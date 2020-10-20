@@ -3,7 +3,7 @@
 
 
 
-# imagemin [![Build Status](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://travis-ci.com)
+# imagemin [![Build Status](https://git-scm.com)]
 
 
 https://git-scm.com
